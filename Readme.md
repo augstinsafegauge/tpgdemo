@@ -1,4 +1,4 @@
-# TPGDemo
+# TPGDemo Android
 
 This app interacts with The Cat API, enabling users to perform CRUD operations (Create, Read, Update, Delete) on cat images.
 
@@ -20,10 +20,10 @@ cd tpgdemo
 ```
 
 ### Add API Key
-
-1. Open the project in Android Studio.
-2. Locate the local.properties file (or create it if missing).
-3. Add your API key:
+1. Get your api key from https://thecatapi.com/
+2. Open the project in Android Studio.
+3. Locate the local.properties file (or create it if missing).
+4. Add your API key:
 
 ```bash
 API_KEY=your_api_key_here
