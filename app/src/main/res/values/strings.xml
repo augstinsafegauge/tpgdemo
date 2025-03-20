@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TPGDemo</string>
+    <string name="loading_failed">Failed to load</string>
+    <string name="retry">Retry</string>
+    <string name="loading">Loading</string>
+    <string name="cats_photo">Mars photo</string>
+    <string name="delete_photo">delete</string>
+    <string name="back_button">backbutton</string>
+
+</resources>
