@@ -3,10 +3,10 @@
 This app interacts with The Cat API, enabling users to perform CRUD operations (Create, Read, Update, Delete) on cat images.
 
 Features:
-Fetch Random Images – Users can browse random cat images from The Cat API.
-Upload Images – Users can upload their own cat images to their account, linked with an API key.
-Delete Images – Users can remove uploaded images from their account.
-Update Uploads List – Users can refresh and manage their uploaded images.
+- Fetch Random Images – Users can browse random cat images from The Cat API.
+- Upload Images – Users can upload their own cat images to their account, linked with an API key.
+- Delete Images – Users can remove uploaded images from their account.
+- Update Uploads List – Users can refresh and manage their uploaded images.
 
 the app has two sections uploads section and public gallery section for the user to navigate.
 
